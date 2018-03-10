@@ -1,0 +1,12 @@
+Reference, Value, Footprint, Datasheet, mfr
+"D1","LED","LEDs:LED_0603","","APT1608EC"
+"R1","100","Resistors_SMD:R_0603_HandSoldering","","ESR03EZPJ101"
+"D2","LED","LEDs:LED_0603","","APT1608EC"
+"BZ1","Buzzer","Resistors_SMD:R_0805_HandSoldering",""
+"BT1","Battery_Cell","TIH:Supercapcoin",""
+"P4","TPI","Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm_SMD_Pin1Left",""
+"P6","RST","Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm_SMD_Pin1Left",""
+"P5","CLK","Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm_SMD_Pin1Left",""
+"P2","VCC","Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm_SMD_Pin1Right",""
+"P1","GND","Pin_Headers:Pin_Header_Straight_1x01_Pitch2.54mm_SMD_Pin1Right",""
+"IC1","ATTINY10-TS","TO_SOT_Packages_SMD:TSOT-23-6_MK06A_HandSoldering","","ATTINY10-TSHR"
